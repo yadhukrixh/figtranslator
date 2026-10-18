@@ -50,7 +50,7 @@ const ui = `
   </head>
 
   <body>
-    <h3>Translatoor</h3>
+    <h3>FigTranslator</h3>
 
     <div class="label">Selected text</div>
 
